@@ -6,7 +6,7 @@ This organization hosts open-source projects originally developed for the Orlean
 
 ## Our Projects
 
-*   **[OrleansMC Core](https://github.com/OrleansMC/OrleansMC)**: Foundational Paper/Velocity plugin for player data, server state (Redis), cross-server communication, and more.
+*   **[OrleansMC](https://github.com/OrleansMC/OrleansMC)**: Foundational Paper/Velocity plugin for player data, server state (Redis), cross-server communication, and more.
 *   **[OrleansRealms](https://github.com/OrleansMC/OrleansRealms)**: Paper plugin for a realm system with custom climates, member management, and progression, integrating with Quests, ItemsAdder, etc.
 *   **[OrleansCommands](https://github.com/OrleansMC/OrleansCommands)**: Paper plugin with QoL commands for VIPs (crafting, repair, skins) with cooldowns and LuckPerms integration.
 *   **[OrleansBot](https://github.com/OrleansMC/OrleansBot)**: Node.js Discord bot for server-Discord integration (player info, admin commands, tickets, logging).
